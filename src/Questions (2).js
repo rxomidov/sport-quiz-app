@@ -34,7 +34,7 @@ export const questions = [{
         "answers": [
             "Ma’nosi izohlanayotgan soz",
             "O’zi bog’langan so’z ma’nosini izohlaydigan so’z",
-            "O’zi bog’langan so’z ma’nosini izohlaydigan so’z",
+            "Boshqa so’zning ma’nosini ifodalaydigan so’z",
             "Ko'makchi bilan kelgan so'z"
 
         ]
@@ -43,13 +43,13 @@ export const questions = [{
         "category": "Sports",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "O'zbekistonda ishga tushishi kutilayotgan Sport avtomobillari ishlab chiqaruvchi kompaniya?",
-        "correct_answer": "Volkswagen",
+        "question": "Bitta kesimlik belgisiga , mazmuniy va ohang tugalligiga ega bo’lgan gap  tuzilishiga ko’ra qanday gap sanaladi?",
+        "correct_answer": "Ergashgan qo’shma gap",
         "answers": [
-            "Toyota",
-            "Audi",
-            "Volkswagen",
-            "Ferrari"
+            "Qo’shma gap",
+            "Bog’lovchisiz qo’shma gap",
+            "Sodda gap",
+            "Ergashgan qo’shma gap"
         ]
     },
     {

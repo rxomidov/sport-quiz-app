@@ -14,7 +14,7 @@ class Quiz extends Component {
         correct: '',
         incorrect: '',
         finish: false,
-        time: 60
+        time: 180
       };
 
       nextQuestion(e)  {
